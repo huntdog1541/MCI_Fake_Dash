@@ -1,0 +1,33 @@
+{
+  "name": "mci_fake_dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntdog1541/MCI_Fake_Dash.git"
+  },
+  "keywords": [
+    "Fake",
+    "Dashboard"
+  ],
+  "author": "David Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huntdog1541/MCI_Fake_Dash/issues"
+  },
+  "homepage": "https://github.com/huntdog1541/MCI_Fake_Dash#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jQuery": "^1.7.4",
+    "plotly": "^1.0.6",
+    "vue": "^2.5.13"
+  }
+}
