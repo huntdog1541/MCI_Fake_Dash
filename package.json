@@ -84,10 +84,10 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "jQuery": "^1.7.4",
+    "chartist": "^0.10.1",
+    "jquery": "^3.3.1",
     "plotly": "^1.0.6",
     "vue": "^2.5.13",
-    "chartist": "^0.10.1",
     "vue-clickaway": "^2.1.0",
     "vue-router": "^2.2.0"
   }
